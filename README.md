@@ -84,6 +84,6 @@ oneClosure.MODULE1.init();//Failed
 ## Code Guid
 - [前端编码规范：HTML/CSS/JS --AlloyTeam](http://imweb.github.io/CodeGuide/)
 
-- [编码规范集合](https://github.com/ecomfe/spec)
+- [编码规范集合](https://github.com/ecomfe/spec)
 
 - [Airbnb Javascript Style Guid](https://github.com/sivan/javascript-style-guide/blob/master/es5/README.md)
