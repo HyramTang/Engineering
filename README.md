@@ -30,6 +30,13 @@
 
 - [闭包--廖雪峰](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143449934543461c9d5dfeeb848f5b72bd012e1113d15000)
 
+## jQuery Plugin
+- [我的第一个jQuery插件开发 - Spqin - 博客园](http://www.cnblogs.com/spqin/p/7485949.html)
+
+- [如何编写 jQuery 插件 - GitHub](https://gist.github.com/quexer/3619237)
+
+- [How to Create a Basic Plugin - jQuery.com](http://learn.jquery.com/plugins/basic-plugin-creation/)
+
 ## Code Guid
 - [前端编码规范：HTML/CSS/JS --AlloyTeam](http://imweb.github.io/CodeGuide/)
 
