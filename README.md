@@ -20,6 +20,8 @@
 
 - [JavaScript 模块化七日谈](https://huangxuan.me/js-module-7day/#/)
 
+- [JavaScript 模块简史](http://www.css88.com/archives/7628)
+
 ## Module Bundler
 - [前端构建工具漫谈，fis3、webpack、rollup.js](https://zhuanlan.zhihu.com/p/20933749)
 
@@ -36,6 +38,8 @@
 - [如何编写 jQuery 插件 - GitHub](https://gist.github.com/quexer/3619237)
 
 - [How to Create a Basic Plugin - jQuery.com](http://learn.jquery.com/plugins/basic-plugin-creation/)
+
+- [jQuery插件开发入门与最佳实践](http://www.h5street.com/demo/jquery-plugin-best-pratices/index.html)
 
 ## Code Guid
 - [前端编码规范：HTML/CSS/JS --AlloyTeam](http://imweb.github.io/CodeGuide/)
